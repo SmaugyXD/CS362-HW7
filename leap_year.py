@@ -1,0 +1,2 @@
+def IsLeap(year):
+    pass
