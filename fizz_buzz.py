@@ -8,3 +8,6 @@ def FizzBuzz(n):
     else:
         return n
 
+if __name__ == '__main__':
+    for counter in range(1,101):
+        print(FizzBuzz(counter))
